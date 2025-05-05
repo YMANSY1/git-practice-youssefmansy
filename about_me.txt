@@ -3,3 +3,6 @@ I am 21
 I am a student at NU
 I enjoy reading and going to the gym
 My goal is to be a software engineer
+
+Favourite Hobby Branch:
+My current favourite hobby is gaming
